@@ -21,3 +21,5 @@
 - [Баг-репорты](https://github.com/riss-test/bug-reports)
 - [SQL запросы](https://github.com/riss-test/SQL)
 - [Postman Collections](https://github.com/riss-test/postman)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riss-test&show_icons=true&theme=tokyonight)
