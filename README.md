@@ -37,4 +37,8 @@
 ![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
 ![Header](https://img.shields.io/badge/GET/POST/PUT/DELETE-00618a?style=for-the-badge&)
 
+### Теория
+![Header](https://img.shields.io/badge/С.Куликов-090909?style=for-the-badge&)
+![Header](https://img.shields.io/badge/Тестирование_ПО-00618a?style=for-the-badge&)
+
 ![Header](https://github.com/riss-test/riss-test/blob/main/assets/avariss.png)
