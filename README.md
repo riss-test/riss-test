@@ -1,6 +1,6 @@
-![Header](https://github.com/riss-test/riss-test/blob/main/assets/avariss.png)
 
-## QA-инженер. Мануальное тестирование.
+
+# QA-инженер. Мануальное тестирование.
 
 ### Инструменты
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
@@ -21,5 +21,3 @@
 - [Баг-репорты](https://github.com/riss-test/bug-reports)
 - [SQL запросы](https://github.com/riss-test/SQL)
 - [Postman Collections](https://github.com/riss-test/postman)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riss-test&show_icons=true&theme=tokyonight)
